@@ -22,6 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://jithin-kalvian.github.io/FEWD_CA_5/kalviumbooks/",
   "eslintConfig": {
     "extends": [
       "react-app",
